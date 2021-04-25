@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Router from 'next/router';
 import cookie from 'js-cookie';
-import Link from 'next/link';
 import 'antd/dist/antd.css';
 import { Form, Input, Button } from 'antd';
 
